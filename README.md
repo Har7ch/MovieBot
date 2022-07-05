@@ -5,4 +5,4 @@
 • To know commands for the bot use '-help' in discord.
 
 
-• This info of Tv shows are extracted using Apis available on internet.
+• The information of Tv shows are extracted using Apis available on internet.
